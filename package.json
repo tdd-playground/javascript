@@ -1,0 +1,23 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdd-playground/javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdd-playground/javascript/issues"
+  },
+  "homepage": "https://github.com/tdd-playground/javascript#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
